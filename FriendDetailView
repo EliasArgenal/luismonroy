@@ -1,0 +1,17 @@
+import SwiftUI
+
+struct FriendDetailView: View {
+    var body: some View {
+        VStack {
+       
+        }
+    }
+}
+
+struct FriendDetailView_Previews: PreviewProvider {
+    static var previews: some View {
+        VStack {
+            FriendDetailView()
+        }
+    }
+}
